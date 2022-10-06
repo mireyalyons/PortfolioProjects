@@ -1,4 +1,6 @@
-*.ipynb linguist-detectable=false
+#*.ipynb linguist-detectable=false
+*.ipynb linguist-language=Python
+
 #PythonProjects/* linguist-language=Python
 
 #SQLProjects/* linguist-language=SQL
