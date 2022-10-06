@@ -1,6 +1,6 @@
 PythonProjects/* linguist-language=Python
 
-SQLProjects/** linguist-vendored
+SQLProjects/* linguist-language=SQL
 
 
 #Projects/*.ipynb linguist-vendored
