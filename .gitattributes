@@ -1,10 +1,8 @@
+*.ipynb python
 #*.ipynb linguist-detectable=false
-
-
-
 #Projects/*.ipynb linguist-vendored
 
-#*.ipynb python
+
 
 #linguist-vendored
 
