@@ -1,5 +1,5 @@
 #*.ipynb linguist-detectable=false
-*.ipynb Python
+*.ipynbPython
 
 
 #Projects/*.ipynb linguist-vendored
