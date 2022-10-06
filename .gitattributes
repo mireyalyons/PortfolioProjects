@@ -1,6 +1,6 @@
 Projects/* linguist-language=Python
 
 
-*.ipynb python
+#*.ipynb python
 
 #linguist-vendored
