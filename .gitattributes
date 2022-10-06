@@ -1,5 +1,6 @@
 #*.ipynb linguist-detectable=false
 *.ipynb Python
+*.sql SQL
 
 #PythonProjects/* linguist-language=Python
 
