@@ -1,6 +1,6 @@
-PythonProjects/* linguist-language=Python
+#PythonProjects/* linguist-language=Python
 
-SQLProjects/* linguist-language=SQL
+#SQLProjects/* linguist-language=SQL
 
 
 #Projects/*.ipynb linguist-vendored
@@ -14,7 +14,7 @@ SQLProjects/* linguist-language=SQL
 # Jupyter notebook
 
 # For text count
- *.ipynb  text
+# *.ipynb  text
 
 # To ignore it use below
 # *.ipynb linguist-documentation
