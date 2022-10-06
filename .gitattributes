@@ -1,4 +1,4 @@
-Projects/* linguist-language=Python
+Projects/*.ipynb linguist-language=Python
 
 
 #*.ipynb python
